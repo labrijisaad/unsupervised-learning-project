@@ -4,4 +4,6 @@ numpy
 pandas
 seaborn
 matplotlib
-jupyterlab
+tslearn
+minisom
+ruptures
