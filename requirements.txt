@@ -7,3 +7,4 @@ matplotlib
 tslearn
 minisom
 ruptures
+statsmodels
