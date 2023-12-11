@@ -8,3 +8,4 @@ tslearn
 minisom
 ruptures
 statsmodels
+h5py
